@@ -7,14 +7,18 @@ You can see the example in [https://nextjs-quickstart.now.sh/](https://nextjs-qu
 ### 📦 Install
 
 ```
-$ git clone https://github.com/guilouro/simple-nextjs-quick-start.git
-
 $ yarn install
 ```
 
 ### 🔨 How to use
 
 Runs next which starts Next.js in development mode
+
+you need to check if you're running these specific dockers
+
+```
+[docker-compose](https://github.com/alisson-amaral-silva/api-react/blob/main/docker-compose.yaml)
+```
 
 ```bash
 $ yarn dev
