@@ -12,14 +12,10 @@ $ yarn install
 
 ### 🔨 How to use
 
-Runs next which starts Next.js in development mode
-
-you need to check if you're running these specific dockers
-
-```
+Check if you're running these specific dockers
 [docker-compose](https://github.com/alisson-amaral-silva/api-react/blob/main/docker-compose.yaml)
-```
 
+Runs next which starts Next.js in development mode
 ```bash
 $ yarn dev
 ```
